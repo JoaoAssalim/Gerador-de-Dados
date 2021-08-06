@@ -31,7 +31,7 @@ python Gerador_dados.py
 
 ## Meta
 
-Your Name – [@Assalim18869971](https://twitter.com/@Assalim18869971) – assalim.py@gmail.com
+Joao Assalim – [@Assalim18869971](https://twitter.com/@Assalim18869971) – assalim.py@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
